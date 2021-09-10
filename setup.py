@@ -1,4 +1,4 @@
-"""Setup for pumukit2 XBlock."""
+"""Setup for pumukit2 XBlock    ffdfffff."""
 
 import os
 from setuptools import setup
